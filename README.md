@@ -1,4 +1,4 @@
 # tetrisCppProject
 A console application Tetris project written in cpp
 ## Demo:
-![](TetrisDemo.gif)
+![](Demos/TetrisDemo.gif)
